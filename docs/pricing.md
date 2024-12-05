@@ -1,4 +1,4 @@
----
+Air Vendor Wifi---
 title: Pricing
 description: Common pricing questions
 ---
